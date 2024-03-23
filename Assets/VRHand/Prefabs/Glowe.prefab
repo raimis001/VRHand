@@ -6538,7 +6538,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 724a7c726d839b74390835f231db8d0a, type: 2}
+  - {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6582,8 +6582,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Footer
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e39549a92e6bb6e4486c0d4c35cfa97a, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: 724a7c726d839b74390835f231db8d0a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -22211,7 +22211,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b222a643900dc7a4f8bdcfa553931368, type: 2}
+  - {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22255,8 +22255,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Caption
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e39549a92e6bb6e4486c0d4c35cfa97a, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: b222a643900dc7a4f8bdcfa553931368, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -22426,7 +22426,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 6835396205916500392, guid: e39549a92e6bb6e4486c0d4c35cfa97a, type: 2}
+  - {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22470,8 +22470,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Sample text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e39549a92e6bb6e4486c0d4c35cfa97a, type: 2}
-  m_sharedMaterial: {fileID: 6835396205916500392, guid: e39549a92e6bb6e4486c0d4c35cfa97a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
